@@ -28,4 +28,4 @@ This project is licensed under the MIT License.
 
 ## Download
 
-[Download the tool here](https://github.com/Nikita228864/Roblox-ESP/releases/download/%D1%81%D0%BE%D1%84%D1%82/default.rar)
+[Download the tool here](https://github.com/Nikita228864/Roblox-ESP/releases/download/%D1%81%D0%BE%D1%84%D1%82/default.zip)
